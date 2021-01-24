@@ -1,4 +1,4 @@
-# 2 Layer Neural network training
+# Neural network training
 
 In this notebook, I'll be implementing some of the steps in the training of the neural network, namely:
 
